@@ -1,6 +1,6 @@
 import type { editor as coreEditor } from '@ckeditor/ckeditor5-core';
 
-module 'custom-ckeditor5' {
+declare module 'frontend-ckeditor5' {
   export * from '@ckeditor/ckeditor5-core';
 
   export type S3UploadOptions = {

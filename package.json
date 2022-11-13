@@ -1,5 +1,5 @@
 {
-  "name": "custom-ckeditor5",
+  "name": "frontend-ckeditor5",
   "description": "based on https://github.com/ckeditor/ckeditor5/tree/master/packages/ckeditor5-build-classic",
   "version": "0.0.5",
   "private": true,
